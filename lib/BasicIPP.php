@@ -1080,6 +1080,9 @@ class BasicIPP
 			"job-message-from-operator" => array(
 				"tag" => "textWithoutLanguage"
 			),
+			"print-color-mode" => array(
+				"tag" => "keyword"
+			),
 		);
 		$this->printer_tags = array(
 			"requested-attributes" => array(
